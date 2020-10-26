@@ -16,9 +16,14 @@ Here are some ideas to get you started:
 
 ### 💻 Work
 
+- 🤖  I'm a software engineer at [Open Robotics](https://www.openrobotics.org/).
+- 🔭  I'm currently working on maintaining and developing [ROS 2 (Robot Operating System)](https://github.com/ros2) and [Ignition Robotcics simulation system](https://github.com/ignitionrobotics). 
+
 ### 👷 Projects
 
 ### 🤓 Learning
+
+- 📓 I'm following along the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?) on Coursera for fun outside of work.
 
 ### 🌎 Find me around the globe
 
