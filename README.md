@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ### 🌎 Find me around the globe
 
+[![claire's LinkedIn](LI-In-Bug.png)](https://www.linkedin.com/in/claireyywang/)
+
 ### 📈 Stats
 
 [![Claire's github stats](https://github-readme-stats.vercel.app/api?username=claireyywang&hide=stars&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
