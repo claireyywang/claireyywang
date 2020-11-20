@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 ### 🤓 Learning
 
-- 📓 I'm following along the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?) on Coursera for fun outside of work.
+- 📓 following [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?)
+- 📖 reading [The Go Programming Language](https://www.gopl.io/) for current project on backend API
+- 📕 studying [Python Cookbook](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/) to level up on Python
 
 ### 🌎 Find me around the globe
 
