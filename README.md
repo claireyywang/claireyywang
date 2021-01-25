@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ### 🤓 Learning
 
+- 📙 [Beginning C++ 17: From Novice to Professional](https://www.amazon.com/Beginning-C-17-Novice-Professional/dp/1484233654)
 - 📖 [The Go Programming Language](https://www.gopl.io/)
 - 📕 [Python Cookbook](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/)
 
