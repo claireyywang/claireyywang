@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ### 💻 Work
 
-- 🤖  I'm a software engineer at [Open Robotics](https://www.openrobotics.org/).
-- 🔭  I'm currently working on maintaining and developing [ROS 2 (Robot Operating System)](https://github.com/ros2) and [Ignition Robotcics simulation system](https://github.com/ignitionrobotics). 
+- 🤖  I was a software engineer at [Open Robotics](https://www.openrobotics.org/).
+- 🔭  I worked on maintaining and developing [ROS 2 (Robot Operating System)](https://github.com/ros2) and [Ignition Robotcics simulation system](https://github.com/ignitionrobotics). 
 
 ### 👷 Projects
 
