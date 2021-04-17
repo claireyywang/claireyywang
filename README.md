@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 👷 Projects
 
-- 🏗️ My hobby site [www.claireyywang.com](claireyywang.com): an all-in-one shop about everything I work on
+- 🏗️ My hobby site [www.claireyywang.com](https://www.claireyywang.com): an all-in-one shop about everything I work on
 
 ### 🤓 Learning
 
