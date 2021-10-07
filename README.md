@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 - 🤖  I was a software engineer at [Open Robotics](https://www.openrobotics.org/).
 - 🔭  I worked on maintaining and developing [ROS 2 (Robot Operating System)](https://github.com/ros2) and [Ignition Robotcics simulation system](https://github.com/ignitionrobotics). 
 
-### 👷 Projects
-
-- 🏗️ My hobby site [www.claireyywang.com](https://www.claireyywang.com): an all-in-one shop about everything I work on
-
 ### 🤓 Learning
 
 - 📙 [Beginning C++ 17: From Novice to Professional](https://www.amazon.com/Beginning-C-17-Novice-Professional/dp/1484233654)
